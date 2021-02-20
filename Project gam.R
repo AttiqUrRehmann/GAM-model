@@ -8,7 +8,7 @@ library(countrycode)
 library(gratia)
 library(mgcViz)
 
-
+# the particulate matter, which pm2.5 and pm10 is not used so you can comment those codes. 
 url.pm2.5 <- 'https://edgar.jrc.ec.europa.eu/download.php?edgar_dst=227345'
 
 
